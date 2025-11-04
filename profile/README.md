@@ -6,31 +6,27 @@
 
 ## 파일 경로 예시 안내
 ```
-📂 지방기능경기대회
- ┣ 📁 연도 ex)2025
+📂 연도 ex) 2025
+ ┣ 📁 지방기능경기대회 (incheon-skills-competition)
  │  ┣ 📁 A-Module
- |  | ┣ 📁 풀이한 사람 1
- |  | ┣ 📁 풀이한 사람 2
- |  | ┣ 📁 풀이한 사람 3
+ │  │  ┣ 👤 풀이한 사람 1
+ |  |  |  ┣ readme.md
+ │  │  ┗ 👤 풀이한 사람 2
  │  ┣ 📁 B-Module
  │  ┗ 📁 C-Module
- ┗ 📂 전국기능경기대회
-    ┣ 📁 연도 ex) 2025
-    │  ┣ 📁 지역1
-    │  │  ┣ 📁 A-Module
-    |  |  | ┣ 📁 풀이한 사람 1
-    |  |  | ┣ 📁 풀이한 사람 2
-    |  |  | ┣ 📁 풀이한 사람 3
-    │  │  ┣ 📁 B-Module
-    │  │  ┗ 📁 C-Module
-    │  ┣ 📁 지역2
-    │  │  ┣ 📁 A-Module
-    │  │  ┣ 📁 B-Module
-    │  │  ┗ 📁 C-Module
-    │  ┗ 📁 지역3
-    │     ┣ 📁 A-Module
-    │     ┣ 📁 B-Module
-    │     ┗ 📁 C-Module
+ ┗ 📁 전국기능경기대회
+    ┣ 📁 지역1
+    │  ┣ 📁 A-Module
+    │  ┣ 📁 B-Module
+    │  ┗ 📁 C-Module
+    ┣ 📁 지역2
+    │  ┣ 📁 A-Module
+    │  ┣ 📁 B-Module
+    │  ┗ 📁 C-Module
+    ┗ 📁 지역3
+       ┣ 📁 A-Module
+       ┣ 📁 B-Module
+       ┗ 📁 C-Module
 ```
 >  **풀이 파일 커밋 시 readme.md를 생성해 자신이 사용한 언어, 프레임워크, 환경 등을 자세히 기재해주세요.** <br>
 >  **ex) B_module -> html, css, javascript, xampp사용(version= x.x.x)**
@@ -88,7 +84,6 @@ postition을 넣어 이슈 수정
 | 2024 | 윤태웅 | 금메달 |
 | 2024 | 최민석 | 은메달 |
 | 2024 | 최성우 | 동메달 |
-| 2024 | 윤도연 | 장려 |
 | 2025 | 유현재 | 금메달 |
 | 2025 | 최성우 | 은메달 |
 | 2025 | 최민석 | 동메달 |
