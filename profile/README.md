@@ -32,8 +32,8 @@
     │     ┣ 📁 B-Module
     │     ┗ 📁 C-Module
 ```
-> 풀이 파일 커밋 시 readme.md를 생성해 자신이 사용한 언어, 프레임워크, 환경 등을 자세히 기재해주세요.
-> ex) B_module -> html, css, javascript(바닐라), xampp사용
+>  **풀이 파일 커밋 시 readme.md를 생성해 자신이 사용한 언어, 프레임워크, 환경 등을 자세히 기재해주세요.** <br>
+>  **ex) B_module -> html, css, javascript, xampp사용(version= x.x.x)**
 
 ## 커밋규칙
 커밋규칙은 기존 git 커밋 규칙을 따릅니다
