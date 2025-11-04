@@ -1,12 +1,101 @@
-## Hi there 👋
+# 인평자동차고등학교 웹 디자인 및 개발 전공심화동아리
+> 2024년 풀이부터라도 제대로 보관해오고자 생성된 조직입니다.
 
-<!--
+지금부터 기능경기대회 관련 파일을 본인 소유의 repo와 webSkill-inpyung 레포에 규칙에 맞게
+함께 저장해주세요.
 
-**Here are some ideas to get you started:**
+## 파일 경로 예시 안내
+```
+📂 지방기능경기대회
+ ┣ 📁 연도 ex)2025
+ │  ┣ 📁 A-Module
+ |  | ┣ 📁 풀이한 사람 1
+ |  | ┣ 📁 풀이한 사람 2
+ |  | ┣ 📁 풀이한 사람 3
+ │  ┣ 📁 B-Module
+ │  ┗ 📁 C-Module
+ ┗ 📂 전국기능경기대회
+    ┣ 📁 연도 ex) 2025
+    │  ┣ 📁 지역1
+    │  │  ┣ 📁 A-Module
+    |  |  | ┣ 📁 풀이한 사람 1
+    |  |  | ┣ 📁 풀이한 사람 2
+    |  |  | ┣ 📁 풀이한 사람 3
+    │  │  ┣ 📁 B-Module
+    │  │  ┗ 📁 C-Module
+    │  ┣ 📁 지역2
+    │  │  ┣ 📁 A-Module
+    │  │  ┣ 📁 B-Module
+    │  │  ┗ 📁 C-Module
+    │  ┗ 📁 지역3
+    │     ┣ 📁 A-Module
+    │     ┣ 📁 B-Module
+    │     ┗ 📁 C-Module
+```
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 커밋규칙
+커밋규칙은 기존 git 커밋 규칙을 따릅니다
+
+### 커밋 메시지 7가지 규칙
+- 제목 및 본문을 빈행으로 구분
+- 제목은 50글자 이내
+- 제목의 첫글자는 대문자
+- 제목 끝 마침표 X
+- 제목은 명령문이며, 과거문 사용금지
+- 본문 각 행은 72글자
+- 어떻게 보단 무엇과 왜를 작성
+
+### 커밋 메시지 구조
+```
+타입(스코프): 주제(제목) // header
+
+본문 // body
+
+바닥글 //footer
+```
+> header는 필수. 스코프는 생략 가능하다
+> 타입은 해당 커밋의 성격을 나타내며 아래중 하나여야함
+
+| 타입 이름 | 내용 |
+|--|--|
+|feat|새로운 기능|
+|fix|버그 수정|
+|build| 빌드관련 파일 수정 or 모듈 설치 또는 삭제 |
+|chore| 자잘한 수정|
+|ci| ci관련 수정 |
+|docs| 문서 수정 |
+|style|코드 스타일 혹은 포맷 변경시|
+|refactor|코드 리팩토링|
+|test|테스트 코드|
+|perf|성능 개선|
+
+### 작성예시
+```
+fix: visual 부분 슬라이드 작동안함 수정
+
+css animation이 작동하지않아 슬라이드가 작동안했음,
+postition을 넣어 이슈 수정
+```
+
+
+
+## 그외.. (수상경력)
+### 지방기능경기대회
+| 년도 | 이름 | 순위 |
+| -- | -- | --|
+| 2024 | 윤태웅 | 금메달 |
+| 2024 | 최민석 | 은메달 |
+| 2024 | 최성우 | 동메달 |
+| 2024 | 윤도연 | 장려 |
+| 2025 | 유현재 | 금메달 |
+| 2025 | 최성우 | 은메달 |
+| 2025 | 최민석 | 동메달 |
+| 2025 | 서정민 | 장려 |
+
+### 전국기능경기대회
+| 년도 | 이름 | 순위 |
+| -- | -- | --|
+| 2024 | 윤태웅 | 장려(11위) |
+| 2025 | 유현재 | 우수(7위) |
+| 2025 | 최민석 | 장려(10위) |
+| 2025 | 최성우 | 장려(14위) |
